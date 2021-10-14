@@ -1,11 +1,11 @@
 ## Fork for testing and development of APO DIS reduction
 
 Example run:
-`cd test_reduce
+```
+cd test_reduce
 pypeit_setup -r [path to repo]/RAW_PATH/b -s apo_dis_red -c A
-run_pypeit apo_dis_red_A/apo_dis_red_A.pypeit`
-
-
+run_pypeit apo_dis_red_A/apo_dis_red_A.pypeit
+```
 
 # The Python Spectroscopic Data Reduction Pipeline (PypeIt) development suite
 

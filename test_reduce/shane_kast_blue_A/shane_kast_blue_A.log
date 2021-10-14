@@ -1,0 +1,58 @@
+------------------------------------------------------
+
+This log was generated with version 1.4.3.dev18+g968313fb6.d20210831 of PypeIt
+
+You are using scipy version=1.7.1
+You are using numpy version=1.21.1
+You are using astropy version=4.3.1
+
+------------------------------------------------------
+
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\par\util.py 509 parse_pypeit_file() - Loading the reduction file
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\par\util.py 535 parse_pypeit_file() - Found 26 raw data frames
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\par\util.py 557 parse_pypeit_file() - Input file loaded successfully
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\pypeit.py 98 __init__() - Loaded spectrograph shane_kast_blue
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\pypeit.py 114 __init__() - Setting configuration-specific parameters using b24.fits.gz
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\pypeit.py 121 __init__() - Built full PypeIt parameter set.
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\pypeit.py 133 __init__() - Compiling metadata
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\metadata.py 198 _build() - Added metadata for b1.fits.gz
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\metadata.py 198 _build() - Added metadata for b14.fits.gz
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\metadata.py 198 _build() - Added metadata for b15.fits.gz
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\metadata.py 198 _build() - Added metadata for b16.fits.gz
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\metadata.py 198 _build() - Added metadata for b17.fits.gz
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\metadata.py 198 _build() - Added metadata for b18.fits.gz
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\metadata.py 198 _build() - Added metadata for b19.fits.gz
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\metadata.py 198 _build() - Added metadata for b20.fits.gz
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\metadata.py 198 _build() - Added metadata for b21.fits.gz
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\metadata.py 198 _build() - Added metadata for b22.fits.gz
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\metadata.py 198 _build() - Added metadata for b23.fits.gz
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\metadata.py 198 _build() - Added metadata for b10.fits.gz
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\metadata.py 198 _build() - Added metadata for b11.fits.gz
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\metadata.py 198 _build() - Added metadata for b12.fits.gz
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\metadata.py 198 _build() - Added metadata for b13.fits.gz
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\metadata.py 198 _build() - Added metadata for b2.fits.gz
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\metadata.py 198 _build() - Added metadata for b3.fits.gz
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\metadata.py 198 _build() - Added metadata for b4.fits.gz
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\metadata.py 198 _build() - Added metadata for b5.fits.gz
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\metadata.py 198 _build() - Added metadata for b6.fits.gz
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\metadata.py 198 _build() - Added metadata for b7.fits.gz
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\metadata.py 198 _build() - Added metadata for b8.fits.gz
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\metadata.py 198 _build() - Added metadata for b9.fits.gz
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\metadata.py 198 _build() - Added metadata for b27.fits.gz
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\metadata.py 198 _build() - Added metadata for b28.fits.gz
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\metadata.py 198 _build() - Added metadata for b24.fits.gz
+[WARNING] :: c:\users\ykwan\documents\github\pypeit\pypeit\metadata.py 1152 get_frame_types() - Removing existing frametype and framebit columns.
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\metadata.py 1163 get_frame_types() - Typing files
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\metadata.py 1170 get_frame_types() - Using user-provided frame types.
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\metadata.py 608 unique_configurations() - Setup column already set.  Finding unique configurations.
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\metadata.py 619 unique_configurations() - Found 1 unique configurations.
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\calibrations.py 924 check_for_calibs() - Congrats!!  You passed the calibrations inspection!!
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\pypeit.py 161 __init__() - Setting reduction path to C:\Users\ykwan\Documents\Github\PypeIt-development-suite\test_reduce
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\pypeit.py 162 __init__() - Master calibration data output to: C:\Users\ykwan\Documents\Github\PypeIt-development-suite\test_reduce\Masters
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\pypeit.py 163 __init__() - Science data output to: C:\Users\ykwan\Documents\Github\PypeIt-development-suite\test_reduce\Science
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\pypeit.py 164 __init__() - Quality assessment plots output to: C:\Users\ykwan\Documents\Github\PypeIt-development-suite\test_reduce\QA
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\pypeit.py 469 reduce_exposure() - Reducing target Feige 66
+             Combining frames:
+             b24.fits.gz
+             
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\pypeit.py 488 reduce_exposure() - Working on detector 1

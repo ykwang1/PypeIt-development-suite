@@ -1,0 +1,14 @@
+------------------------------------------------------
+
+This log was generated with version 1.4.3.dev18+g968313fb6.d20210831 of PypeIt
+
+You are using scipy version=1.7.1
+You are using numpy version=1.21.1
+You are using astropy version=4.3.1
+
+------------------------------------------------------
+
+[INFO]    :: c:\users\ykwan\documents\github\pypeit\pypeit\par\util.py 509 parse_pypeit_file() - Loading the reduction file
+
+[ERROR]   :: c:\users\ykwan\documents\github\pypeit\pypeit\par\util.py 201 _read_pypeit_file_lines() - The filename does not exist -
+             shane_kast_blue_A.pypeit

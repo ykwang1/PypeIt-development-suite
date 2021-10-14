@@ -1,0 +1,86 @@
+A:
+  --:
+    binning: 1,1
+    decker: 1.5 Slit
+    dispangle: 6.53
+    dispname: R300
+  1:
+    align: []
+    arc:
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\arc.0012r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\arc.0013r.fits
+    bias:
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\bias.0001r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\bias.0002r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\bias.0003r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\bias.0004r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\bias.0005r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\bias.0006r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\bias.0007r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\bias.0008r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\bias.0009r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\bias.0010r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\bias.0011r.fits
+    dark: []
+    illumflat:
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\flat.0015r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\flat.0016r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\flat.0017r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\flat.0018r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\flat.0019r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\flat.0020r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\flat.0021r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\flat.0022r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\flat.0023r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\flat.0024r.fits
+    pinhole: []
+    pixelflat:
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\flat.0015r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\flat.0016r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\flat.0017r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\flat.0018r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\flat.0019r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\flat.0020r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\flat.0021r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\flat.0022r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\flat.0023r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\flat.0024r.fits
+    science:
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\object.0028r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\object.0029r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\object.0030r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\object.0031r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\object.0032r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\object.0033r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\object.0034r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\object.0035r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\object.0036r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\object.0037r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\object.0038r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\object.0039r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\object.0040r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\object.0041r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\object.0042r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\object.0043r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\object.0044r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\object.0045r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\object.0046r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\object.0047r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\object.0048r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\object.0049r.fits
+    sky: []
+    standard: []
+    tilt:
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\arc.0012r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\arc.0013r.fits
+    trace:
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\flat.0015r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\flat.0016r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\flat.0017r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\flat.0018r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\flat.0019r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\flat.0020r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\flat.0021r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\flat.0022r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\flat.0023r.fits
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\flat.0024r.fits

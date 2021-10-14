@@ -1,0 +1,12 @@
+# Auto-generated PypeIt file
+# 2021-10-08
+
+# User-defined execution parameters
+[rdx]
+    spectrograph = apo_dis_red
+
+# Read in the data
+data read
+ C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\UT210806\red\*.fits*
+data end
+

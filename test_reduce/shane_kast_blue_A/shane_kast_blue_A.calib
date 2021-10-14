@@ -1,0 +1,68 @@
+A:
+  --:
+    dichroic: d55
+    dispname: 600/4310
+  1:
+    align: []
+    arc:
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b1.fits.gz
+    bias:
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b14.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b15.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b16.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b17.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b18.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b19.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b20.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b21.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b22.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b23.fits.gz
+    dark: []
+    illumflat:
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b10.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b11.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b12.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b13.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b2.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b3.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b4.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b5.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b6.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b7.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b8.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b9.fits.gz
+    pinhole: []
+    pixelflat:
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b10.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b11.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b12.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b13.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b2.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b3.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b4.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b5.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b6.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b7.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b8.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b9.fits.gz
+    science:
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b27.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b28.fits.gz
+    sky: []
+    standard:
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b24.fits.gz
+    tilt:
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b1.fits.gz
+    trace:
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b10.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b11.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b12.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b13.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b2.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b3.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b4.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b5.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b6.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b7.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b8.fits.gz
+    - C:\Users\ykwan\Documents\Github\PypeIt-development-suite\RAW_DATA\shane_kast_blue\600_4310_d55\b9.fits.gz
